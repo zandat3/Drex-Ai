@@ -82,7 +82,7 @@ const antibot = process.env.ANTIBOT || 'FALSE';
             const qmsg = (quoted.msg || quoted);
     const author = process.env.STICKER_AUTHOR ||'AI';
     const packname = process.env.STICKER_PACKNAME || 'OWL';
-const dev = process.env.DEV || '254743551416'
+const dev = process.env.DEV || '254776436960'
 
 const menu = process.env.MENU_TYPE || 'VIDEO';
  const DevDreaded = dev.split(",");
@@ -340,9 +340,9 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
       switch (command) {
       case "help":
         case "menu":
-let cap = `╭════〘 𓅓𝐎𝐖𝐋 𝐁𝐎𝐓𓅓 〙═⊷❍
+let cap = `╭════〘 𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞 〙═⊷❍
 ┃𓅓╭──────────────
-┃𓅓│ Owner : 𝐌𝐀𝐋𝐈𝐁𝐔
+┃𓅓│ Owner : ⁖℘༒꒯ark ﭐո†㉹ո† 𓀒☠︎︎
 ┃𓅓│ User : ${m.pushName} 
 ┃𓅓│ Platform : Tesla x
 ┃𓅓│ Available RAM 34GB of 62GB
@@ -452,7 +452,7 @@ client.sendMessage(m.chat, {
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: `𝐎𝐖𝐋 𝐀𝐈`,
+                                title: `𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞`,
                                 body: `${runtime(process.uptime())}`,
                                 thumbnail: fs.readFileSync('./IMG-20231205-WA0115.jpg'),
                                 sourceUrl: 'https://wa.me/254743551416?text=ʜᴇʟʟᴏ+𝐌𝐀𝐋𝐈𝐁𝐔+Nihostie+Bot+Mkuu+🥲',
@@ -1721,13 +1721,13 @@ case "ping": case "speed": {
  break; 
   
  case "runtime": { 
-                 m.reply (`OWL AI has been running for ${runtime(process.uptime())}`) 
+                 m.reply (`𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞 has been running for ${runtime(process.uptime())}`) 
  } 
  break;
 
 case "alive": { 
   
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/117bb12f0cf686af0c0cd.jpg' }, caption: `Hello ${m.pushName}, 𝐎𝐖𝐋 𝐀𝐈 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/117bb12f0cf686af0c0cd.jpg' }, caption: `Hello ${m.pushName}, 𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
  }
 break;
 case 'apk': {
@@ -1984,7 +1984,7 @@ case "getvar":
         case "gpt": case "gpt": 
           
 
-            if (!text) return reply("Hello am 𝐎𝐖𝐋 an Ai developed by 𝐌𝐚𝐥𝐢𝐛𝐮, how can I help you today?");
+            if (!text) return reply("Hello am 𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞 an Ai developed by ⁖℘༒꒯ark ﭐո†㉹ո† 𓀒☠︎︎, how can I help you today?");
 
            const configuration = new Configuration({
 
