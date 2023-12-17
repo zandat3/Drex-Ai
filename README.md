@@ -1,4 +1,4 @@
-# 𝐎𝐖𝐋 𝐀𝐈 𝐁𝐎𝐓
+# 𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞 𝐀𝐈 𝐁𝐎𝐓
 
 <p align="center"> 
 <u>♥️𝐈𝐓𝐒 𝐀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝐁𝐘 ⸙𝕯⃟ậꞞ͓̽𝕶̑̈⤘𝕴⃝n҈₮̻𝓔͜͡ ₦̑̈𝘁♥️</u>
@@ -7,10 +7,10 @@
 <img src="https://telegra.ph/file/348f6d1724e81a979d19e.jpg" width="300" height="300"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=OWL-AI+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞-AI+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝐌𝐀𝐋𝐈𝐁𝐔-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-⸙𝕯⃟ậꞞ͓̽𝕶̑̈⤘𝕴⃝n҈₮̻𝓔͜͡ ₦̑̈𝘁-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/owlai01?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
