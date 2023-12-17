@@ -4,7 +4,7 @@
 <u>♥️𝐈𝐓𝐒 𝐀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝐁𝐘 ⸙𝕯⃟ậꞞ͓̽𝕶̑̈⤘𝕴⃝n҈₮̻𝓔͜͡ ₦̑̈𝘁♥️</u>
 </p>
 <p align="center">
-<img src="https://telegra.ph/file/f70b20c771a3965516896.mp4" width="300" height="300"/>
+<img src="https://telegra.ph/file/348f6d1724e81a979d19e.jpg" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=OWL-AI+WHATSAPP+BOT" alt="">
