@@ -1,10 +1,10 @@
 # 𝐎𝐖𝐋 𝐀𝐈 𝐁𝐎𝐓
 
 <p align="center"> 
-<u>♥️𝐈𝐓𝐒 𝐀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝐁𝐘 𝐌𝐀𝐋𝐈𝐁𝐔♥️</u>
+<u>♥️𝐈𝐓𝐒 𝐀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝐁𝐘 ⸙𝕯⃟ậꞞ͓̽𝕶̑̈⤘𝕴⃝n҈₮̻𝓔͜͡ ₦̑̈𝘁♥️</u>
 </p>
 <p align="center">
-<img src="https://telegra.ph/file/1d0fb63c857138f5bee51.jpg" width="300" height="300"/>
+<img src="https://telegra.ph/file/f70b20c771a3965516896.mp4" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=OWL-AI+WHATSAPP+BOT" alt="">
@@ -57,7 +57,7 @@ Linking/Pairing:
 
 
 
-Incase of any issues, contact me  [here](https://wa.me/+254743551416) via WhatsApp or [here](kiddomalibu@gmail.com) via Email.
+Incase of any issues, contact me  [here](https://wa.me/+254101793978) via WhatsApp or [here](darkintent120@gmail.com) via Email.
 
 Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
 
