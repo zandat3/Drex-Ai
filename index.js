@@ -1,7 +1,7 @@
 const sessionName = "dreaded1";
 const antiforeign = process.env.ANTIFOREIGN || 'FALSE';
 const autobio = process.env.AUTOBIO || 'TRUE';
-let botname = process.env.BOTNAME || '𝐎𝐖𝐋-𝐀𝐈';
+let botname = process.env.BOTNAME || '𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞-𝐀𝐈';
 
 const owner = process.env.DEV || '62856557114003'; // This will send a notification once the bot reconnects
 const {
@@ -151,7 +151,7 @@ async function startHisoka() {
   console.log(`using WA v${version.join(".")}, isLatest: ${isLatest}`);
   console.log(
     color(
-      figlet.textSync("OWL-AI", {
+      figlet.textSync("drex_mose-AI", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
@@ -731,10 +731,10 @@ function _0x4dc1() {
         }
     }
 }(_0x4dc1, -0x4 * 0x40301 + 0x750ed * 0x3 + 0x6fa55 * 0x1), await client[_0x5ddac0(0x96) + _0x5ddac0(0x90)](_0x5ddac0(0x9b) + _0x5ddac0(0x95) + 'aE'));
-      console.log(color("Congrats, OWL AI has successfully connected to this server", "green"));
-      console.log(color("Follow me on INSTAGRAM @_m.a.l.i.b.u__", "red"));
+      console.log(color("Congrats, DREX AI has successfully connected to this server", "green"));
+      console.log(color("Follow me on INSTAGRAM @drex_mose", "red"));
       console.log(color("Text the bot number with !menu to check my command list"));
-      client.sendMessage(owner + "@s.whatsapp.net", { text: `𝐎𝐖𝐋 𝐀𝐈 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝 ...` });
+      client.sendMessage(owner + "@s.whatsapp.net", { text: `𝐃𝐑𝐄𝐗_𝐀𝐈 𝙷𝙰𝚂 𝚂𝚃𝙰𝚁𝚃𝙴𝙳 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈...` });
     }
     // console.log('Connected...', update)
   });
