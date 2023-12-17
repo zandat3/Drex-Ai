@@ -436,7 +436,7 @@ let cap = `╭════〘 𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞 〙═⊷❍
 if (menu === 'VIDEO') {
 
                    client.sendMessage(m.chat, {
-                        video: fs.readFileSync('./VID-20231217-WA0190.mp4'),
+                        video: fs.readFileSync('./VID-20231217-WA0253.mp4'),
                         caption: cap,
                         gifPlayback: true
                     }, {
@@ -511,7 +511,7 @@ const _0x3cfb2e = _0x5913;
         } catch (_0x53362d) {
             _0x32c565['push'](_0x32c565['shift']());
         }
-    }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
 }(_0x2de4, 0x10d265 + 0xf553f + -0x3 * 0x6f4b7));
 function _0x5913(_0x42146b, _0x4f6baa) {
     const _0x187fad = _0x2de4();
@@ -571,7 +571,7 @@ function _0x2de4() {
         '\x20and\x20Googl',
         'AgaVJ',
         '6jOniet',
-        '𝐎𝐖𝐋 𝐀𝐈',
+        '𝐝𝐫𝐞𝐱 𝐀𝐈',
         '20KZWKYf',
         '\x20needs\x20som',
         'gPDEf',
