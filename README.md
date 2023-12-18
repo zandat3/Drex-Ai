@@ -1,7 +1,7 @@
 # 𝐃𝐑𝐄𝐗 𝐀𝐈 𝐁𝐎𝐓
 
 <p align="center"> 
-<u>♥️𝐈𝐓𝐒 𝐀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝐁𝐘 ⸙𝕯⃟ậꞞ͓̽𝕶̑̈⤘𝕴⃝n҈₮̻𝓔͜͡ ₦̑̈𝘁♥️</u>
+<u>♥️ 𝐀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝐁𝐘 𝗗𝗔𝗥𝗞_𝗜𝗡𝗧𝗘𝗡𝗧♥️</u>
 </p>
 <p align="center">
 <img src="https://telegra.ph/file/685c7c8c2ba4e6019e3b4.jpg" width="300" height="300"/>
@@ -10,10 +10,11 @@
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝐃𝐑𝐄𝐗-AI+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-⸙𝕯⃟ậꞞ͓̽𝕶̑̈⤘𝕴⃝n҈₮̻𝓔͜͡ ₦̑̈𝘁-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝗗𝗔𝗥𝗞_𝗜𝗡𝗧𝗘𝗡𝗧-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/owlai01?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
+<a href="https://github.com/owlai01?tab=followers"><img title="Followers" 𝗵
+src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
 <a href="https://github.com/owlai01/Owl-Ai/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/owlai01/Owl-Ai?color=white&style=flat-square"></a>
 <a href="https://github.com/owlai01/Owl-Ai/network/members"><img title="Forks" src="https://img.shields.io/github/fork/owlai01/Owl-Ai?color=yellow&style=flat-square"></a>
 <a href="https://github.com/owlai01/Owl-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/owlai01/Owl-Ai?label=Watchers&color=red&style=flat-square"></a>
