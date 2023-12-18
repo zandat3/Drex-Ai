@@ -1,4 +1,4 @@
-# 𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞 𝐀𝐈 𝐁𝐎𝐓
+# 𝐃𝐑𝐄𝐗 𝐀𝐈 𝐁𝐎𝐓
 
 <p align="center"> 
 <u>♥️𝐈𝐓𝐒 𝐀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝐁𝐘 ⸙𝕯⃟ậꞞ͓̽𝕶̑̈⤘𝕴⃝n҈₮̻𝓔͜͡ ₦̑̈𝘁♥️</u>
@@ -7,7 +7,7 @@
 <img src="https://telegra.ph/file/685c7c8c2ba4e6019e3b4.jpg" width="300" height="300"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞-AI+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝐃𝐑𝐄𝐗-AI+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-⸙𝕯⃟ậꞞ͓̽𝕶̑̈⤘𝕴⃝n҈₮̻𝓔͜͡ ₦̑̈𝘁-red.svg?style=for-the-badge&logo=github"></a>
@@ -66,5 +66,5 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 [MIT License](https://github.com/owlai01/Owl-Ai/blob/main/LICENSE)
 
-Copyright (c) 2023 𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞 𝐀𝐈 𝐁𝐎𝐓
+Copyright (c) 2023 𝐃𝐑𝐄𝐗 𝐀𝐈 𝐁𝐎𝐓
 
