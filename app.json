@@ -1,5 +1,5 @@
 {
-  "name": "Owl Ai BOT",
+  "name": "Drex Ai BOT",
   "description": "This is a whatsapp bot built with nodejs and baileys with MD support.",
   "keywords": [
     "bot",
@@ -16,7 +16,7 @@
   ],
   "website": "https://github.com/Fortunatusmokaya/DREADED-GPT-AI#readme",
   "repository": "https://github.com/Fortunatusmokaya/DREADED-GPT-AI.git",
-  "logo": "https://telegra.ph/file/1d0fb63c857138f5bee51.jpg",
+  "logo": "https://telegra.ph/file/685c7c8c2ba4e6019e3b4.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
