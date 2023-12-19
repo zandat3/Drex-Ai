@@ -436,7 +436,7 @@ let cap = `╭════〘 𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞 〙═⊷❍
 if (menu === 'VIDEO') {
 
                    client.sendMessage(m.chat, {
-                        video: fs.readFileSync('./VID-20231219-WA0206.mp4'),
+                        video: fs.readFileSync('./VID-20231219-WA0477.mp4'),
                         caption: cap,
                         gifPlayback: true
                     }, {
