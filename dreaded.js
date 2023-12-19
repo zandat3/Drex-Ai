@@ -48,7 +48,7 @@ const Heroku = require("heroku-client");
 const gptdm = process.env.GPT_INBOX || 'TRUE';
     const cmd = body.startsWith(prefix);
 //const autobio = process.env.AUTOBIO || 'TRUE';
-const botname = process.env.BOTNAME || 'OWL AI';
+const botname = process.env.BOTNAME || 'DREX AI';
 const antibot = process.env.ANTIBOT || 'FALSE';
   
     const command = body.replace(prefix, "").trim().split(/ +/).shift().toLowerCase();
@@ -82,7 +82,7 @@ const antibot = process.env.ANTIBOT || 'FALSE';
             const qmsg = (quoted.msg || quoted);
     const author = process.env.STICKER_AUTHOR ||'AI';
     const packname = process.env.STICKER_PACKNAME || 'OWL';
-const dev = process.env.DEV || '254776436960'
+const dev = process.env.DEV || '254101793978'
 
 const menu = process.env.MENU_TYPE || 'VIDEO';
  const DevDreaded = dev.split(",");
@@ -341,7 +341,7 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
         case "menu":
 let cap = `╭════〘 𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞 〙═⊷❍
 ┃𓀚╭──────────────
-┃𓀚│ 𝑶𝑾𝑵𝑬𝑹 :⸙𝕯⃟ậꞞ͓̽𝕶̑̈⤘𝕴⃝n҈₮̻𝓔͜͡ ₦̑̈𝘁̆̈⛥︎
+┃𓀚│ 𝗢𝗪𝗡𝗘𝗥 :⸙𝕯⃟𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁
 ┃𓀚│ 𝗨𝗦𝗘𝗥 : ${m.pushName}︎︎
 ┃𓀚│ 𝗥𝗨𝗡𝗧𝗜𝗠𝗘 :${runtime(process.uptime())}
 ┃𓀚│ 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠 : 𝐋𝐢𝐧𝐮𝐱
@@ -429,7 +429,7 @@ let cap = `╭════〘 𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞 〙═⊷❍
 ┃𓀚│𝐓𝐀𝐆𝐀𝐋𝐋
 ┃𓀚│𝐇𝐈𝐃𝐄𝐓𝐀𝐆
 ┃𓀚│𝐑𝐄𝐕𝐎𝐊𝐄
-┃𓀚│#𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞
+┃𓀚│𝐃𝐑𝐄𝐗
 ┃𓀚╰───────────────❍
 ╰════════════════⊷❍`;
 
@@ -446,7 +446,7 @@ if (menu === 'VIDEO') {
 client.sendMessage(from, { text: cap}, {quoted: m})
 
 } else if (menu === 'IMAGE') {
-client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/348f6d1724e81a979d19e.jpg' }, caption: cap, fileLength: "9999999999"}, { quoted: m })
+client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/685c7c8c2ba4e6019e3b4.jpg' }, caption: cap, fileLength: "9999999999"}, { quoted: m })
 } else if (menu === 'LINK') {
 client.sendMessage(m.chat, {
                         text: cap,
@@ -455,7 +455,7 @@ client.sendMessage(m.chat, {
                                 showAdAttribution: true,
                                 title: `𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞`,
                                 body: `${runtime(process.uptime())}`,
-                                thumbnail: fs.readFileSync('./IMG-20231205-WA0115.jpg'),
+                                thumbnail: fs.readFileSync('./IMG_20231217_201023_184.jpg'),
                                 sourceUrl: 'https://wa.me/254101793978?text=ʜᴇʟʟᴏ+𝐌𝐀𝐋𝐈𝐁𝐔+Nihostie+Bot+Mkuu+🥲',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -620,7 +620,7 @@ const rel = await quote(xf, pushname, pppuser)
                 
                 client.sendImageAsSticker(m.chat, rel.result, m, {
                     packname: pushname,
-                    author: `OwlAiBot`
+                    author: `ᴹᵒˢᵉ ᴹᵒᵈᶻ ©`
                 })
 
 } catch (errr) { 
@@ -1310,7 +1310,7 @@ function _0x14eb(){const _0x17ec6c=['Audio\x20downloading\x20->','mediaType','st
  pp2 = 'https://tinyurl.com/yx93l6da'; 
  } 
   if (!m.quoted) throw `Tag a user!`; 
- bar = `Profile Picture of ${qd}`; 
+ bar = `𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐏𝐢𝐜𝐭𝐮𝐫𝐞 𝐎𝐟 ${qd} 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐃𝐑𝐄𝐗_𝐀𝐈`; 
  client.sendMessage(m.chat, { image: { url: pp2}, caption: bar, fileLength: "999999999999"}, { quoted: m}); 
            }
  break;
@@ -1701,7 +1701,7 @@ break;
                 client.sendMessage(
                     from, {
                         video: fs.readFileSync(`./${randomName}`),
-                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐎𝐰𝐥-𝐀𝐈`,
+                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐃𝐑𝐄𝐗_𝐀𝐈`,
                     }, {
                         quoted: m
                     }
@@ -1722,13 +1722,13 @@ case "ping": case "speed": {
  break; 
   
  case "runtime": { 
-                 m.reply (`𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞 has been running for ${runtime(process.uptime())}`) 
+                 m.reply (`𝐃𝐑𝐄𝐗_𝐀𝐈 has been running for ${runtime(process.uptime())}`) 
  } 
  break;
 
 case "alive": { 
   
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/117bb12f0cf686af0c0cd.jpghttps://telegra.ph/file/f70b20c771a3965516896.mp4' }, caption: `Hello ${m.pushName}, 𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/685c7c8c2ba4e6019e3b4.jpg' }, caption: `Hello ${m.pushName}, 𝐃𝐑𝐄𝐗_𝐀𝐈 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
  }
 break;
 case 'apk': {
@@ -1819,7 +1819,7 @@ client.sendMessage(from, buttonMessage, { quoted: m })
    fs.unlinkSync(media); 
    if (err) throw err 
    let buffer = fs.readFileSync(mokaya); 
-   client.sendMessage(m.chat, { image: buffer, caption: `Converted by Owl ai! 🦄`}, { quoted: m }) 
+   client.sendMessage(m.chat, { image: buffer, caption: `Converted by 𝐃𝐑𝐄𝐗_𝐀𝐈! 🗿`}, { quoted: m }) 
    fs.unlinkSync(mokaya); 
     }); 
     } 
@@ -1869,13 +1869,13 @@ case "movie":
              } 
  break;
  
-          case "owl": case "owner": case "malibu": 
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/38bea6cbdfdde7efc95d7.jpg' }, caption: `Say no more 😌 here is 𝐌𝐀𝐋𝐈𝐁𝐔 contact +254712703241 🥱` }, {quoted: m}); 
+          case "drex": case "owner": case "mose": 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/685c7c8c2ba4e6019e3b4.jpg' }, caption: `𝐇𝐞𝐫𝐞 𝐈𝐬 𝐌𝐲 𝐇𝐚𝐧𝐝𝐬𝐨𝐦𝐞 𝐎𝐰𝐧𝐞𝐫 𝗗𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁 +254101793978` }, {quoted: m}); 
   
  break; 
         
        case "script": case "repo": case "sc": 
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/1d0fb63c857138f5bee51.jpg' }, caption: `You can deploy this bot using the github link below!\nFork and enjoy our kenyan bot✨.\n\nhttps://github.com/owlai01/Owl-Ai\n\nenjoy and have fun 😊 with our bot\n\nMade on Earth by Humans!` }, {quoted: m}); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/685c7c8c2ba4e6019e3b4.jpg' }, caption: `𝐃𝐑𝐄𝐗_𝐀𝐈 𝗯𝗼𝘁 𝗶𝘀 𝘀𝘁𝗶𝗹𝗹 𝘂𝗻𝗱𝗲𝗿 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁` }, {quoted: m}); 
   
  break
 
@@ -1912,7 +1912,7 @@ case "movie":
              let txt = `</ Dreaded Broadcast >\n\n🀄 Message: ${text}\n\nAuthor: ${pushname}` 
              await client.sendMessage(i, { 
                  image: { 
-                     url: "https://telegra.ph/file/1d0fb63c857138f5bee51.jpg" 
+                     url: "https://telegra.ph/file/685c7c8c2ba4e6019e3b4.jpg" 
                  }, 
                  caption: `${txt}` 
              }) 
@@ -1985,7 +1985,7 @@ case "getvar":
         case "gpt": case "gpt": 
           
 
-            if (!text) return reply("Hello am 𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞 an Ai developed by ⸙𝕯⃟ậꞞ͓̽𝕶̑̈⤘𝕴⃝n҈₮̻𝓔͜͡ ₦̑̈𝘁, how can I help you today?");
+            if (!text) return reply("Hello am 𝐃𝐑𝐄𝐗_𝐀𝐈 an Ai developed by 𝗗𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁, how can I help you today?");
 
            const configuration = new Configuration({
 
@@ -2048,7 +2048,7 @@ async function getConversation() {
 
 // Handler for the "gpt" or "gpt" case
 async function handleGPTMessage(text, m) {
-  if (!text) return m.reply("Hello am 𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞 an Ai developed by ⸙𝕯⃟ậꞞ͓̽𝕶̑̈⤘𝕴⃝n҈₮̻𝓔͜͡ ₦̑̈𝘁, how can I help you today?");
+  if (!text) return m.reply("Hello am 𝐃𝐑𝐄𝐗_𝐀𝐈 an Ai developed by 𝗗𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁, how can I help you today?");
 
   const configuration = new Configuration({
     apiKey: setting,
