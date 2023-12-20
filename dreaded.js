@@ -1981,6 +1981,19 @@ case "getvar":
   
   
  break;
+
+        case 'tomp4': case 'tovideo': {
+                if (!quoted) return replygcxeon('Reply to Sticker')
+                if (!/webp/.test(mime)) return replygcxeon(`reply sticker with caption *${prefix + command}*`)
+                await XeonStickWait()
+		        let { webp2mp4File } = require('./lib/uploader')
+                let media = await XeonBotInc.downloadAndSaveMediaMessage(quoted)
+                let webpToMp4 = await webp2mp4File(media)
+                await XeonBotInc.sendMessage(m.chat, { video: { url: webpToMp4.result, caption: 'Convert Webp To Video' } }, { quoted: m })
+                await fs.unlinkSync(media)
+            }
+            break;
+        
  
         case "gpt": case "gpt": 
           
