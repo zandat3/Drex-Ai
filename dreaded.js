@@ -339,7 +339,7 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
       switch (command) {
       case "help":
         case "menu":
-let cap = `╭════〘 𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞 〙═⊷❍
+let cap = `╭════〘 𝐃𝐑𝐄𝐗 𝐁𝐎𝐓 〙═⊷❍
 ┃𓀚╭──────────────
 ┃𓀚│ 𝗢𝗪𝗡𝗘𝗥 :⸙𝕯⃟𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁
 ┃𓀚│ 𝗨𝗦𝗘𝗥 : ${m.pushName}︎︎
@@ -453,7 +453,7 @@ client.sendMessage(m.chat, {
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: `𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞`,
+                                title: `𝐃𝐑𝐄𝐗 𝐁𝐎𝐓`,
                                 body: `${runtime(process.uptime())}`,
                                 thumbnail: fs.readFileSync('./IMG_20231217_201023_184.jpg'),
                                 sourceUrl: 'https://wa.me/254101793978?text=ʜᴇʟʟᴏ+𝐌𝐀𝐋𝐈𝐁𝐔+Nihostie+Bot+Mkuu+🥲',
@@ -565,13 +565,13 @@ function _0x2de4() {
         '64311OINjak',
         'catch',
         'e\x20text.\x20Th',
-        '\x20of\x20its developer 𝐌𝐀𝐋𝐈𝐁𝐔',
+        '\x20of\x20its developer 𝗗𝗔𝗥𝗞_𝗜𝗡𝗧𝗘𝗡𝗧',
         'is\x20AI\x20work',
         '1832596QZCVhJ',
         '\x20and\x20Googl',
         'AgaVJ',
         '6jOniet',
-        '𝐝𝐫𝐞𝐱 𝐀𝐈',
+        '𝐃𝐑𝐄𝐗_𝐀𝐈',
         '20KZWKYf',
         '\x20needs\x20som',
         'gPDEf',
@@ -1322,7 +1322,7 @@ break;
 
 case "speed": 
   
-              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/348f6d1724e81a979d19e.jpg' }, caption:`𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞 𝐀𝐈\n\n𝐒𝐏𝐄𝐄𝐃:${dreadedspeed.toFixed(4)} 𝐦𝐬`}); 
+              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/348f6d1724e81a979d19e.jpg' }, caption:`𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞 𝐀𝐈\n\n𝐒𝐏𝐄𝐄𝐃:${dreadedspeed.toFixed(4)} 𝐌𝐒`}); 
  break; 
 
 case "take": {
@@ -1717,7 +1717,7 @@ break;
 break;
 
 case "ping": case "speed": { 
-         m.reply (`${dreadedspeed.toFixed(4)} 𝐦𝐬`); 
+         m.reply (`𝗣𝗼𝗻𝗴!! ${dreadedspeed.toFixed(4)} 𝐌𝐒...`); 
          } 
  break; 
   
@@ -1870,12 +1870,12 @@ case "movie":
  break;
  
           case "drex": case "owner": case "mose": 
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/685c7c8c2ba4e6019e3b4.jpg' }, caption: `𝐇𝐞𝐫𝐞 𝐈𝐬 𝐌𝐲 𝐇𝐚𝐧𝐝𝐬𝐨𝐦𝐞 𝐎𝐰𝐧𝐞𝐫 𝗗𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁 +254101793978` }, {quoted: m}); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/685c7c8c2ba4e6019e3b4.jpg' }, caption: `𝐇𝐞𝐫𝐞 𝐈𝐬 𝐌𝐲 𝐇𝐚𝐧𝐝𝐬𝐨𝐦𝐞 𝐎𝐰𝐧𝐞𝐫 𝗗𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁 +254102074064` }, {quoted: m}); 
   
  break; 
         
        case "script": case "repo": case "sc": 
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/685c7c8c2ba4e6019e3b4.jpg' }, caption: `𝐃𝐑𝐄𝐗_𝐀𝐈 𝗯𝗼𝘁 𝗶𝘀 𝘀𝘁𝗶𝗹𝗹 𝘂𝗻𝗱𝗲𝗿 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁` }, {quoted: m}); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/685c7c8c2ba4e6019e3b4.jpg' }, caption: `𝐃𝐑𝐄𝐗_𝐀𝐈 𝗯𝗼𝘁 𝗶𝘀 𝘀𝘁𝗶𝗹𝗹 𝘂𝗻𝗱𝗲𝗿 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝘁𝗵𝗲 𝗼𝘄𝗻𝗲𝗿 𝗳𝗼𝗿 𝗺𝗼𝗿𝗲 𝗶𝗻𝗳𝗼...` }, {quoted: m}); 
   
  break
 
