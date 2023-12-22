@@ -1,9 +1,9 @@
 const sessionName = "dreaded1";
 const antiforeign = process.env.ANTIFOREIGN || 'FALSE';
 const autobio = process.env.AUTOBIO || 'TRUE';
-let botname = process.env.BOTNAME || '𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞-𝐀𝐈';
+let botname = process.env.BOTNAME || '𝐃𝐑𝐄𝐗 𝐁𝐎𝐓';
 
-const owner = process.env.DEV || '62856557114003'; // This will send a notification once the bot reconnects
+const owner = process.env.DEV || '254102074064'; // This will send a notification once the bot reconnects
 const {
   default: dreadedConnect,
   useMultiFileAuthState,
@@ -176,7 +176,7 @@ if (autobio === 'TRUE'){
 
                          client.updateProfileStatus( 
 
-                                         `Long live ${botname}\n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} It's a ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
+                                         `𝗟𝗼𝗻𝗴 𝗹𝗶𝘃𝗲 ${botname}\n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} It's a ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}. 𝗗𝗲𝘃𝗲𝗹𝗽𝗲𝗱 𝗕𝘆 𝗗𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁 ©` 
 
                                  ) 
 
