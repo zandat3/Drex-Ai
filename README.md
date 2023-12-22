@@ -1,7 +1,7 @@
 # 𝐃𝐑𝐄𝐗 𝐀𝐈 𝐁𝐎𝐓
 
 <p align="center"> 
-<u>♥️ 𝐀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝐁𝐘 𝗗𝗔𝗥𝗞_𝗜𝗡𝗧𝗘𝗡𝗧♥️</u>
+<u>〠 𝐀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝐁𝐘 𝗗𝗔𝗥𝗞_𝗜𝗡𝗧𝗘𝗡𝗧 〠</u>
 </p>
 <p align="center">
 <img src="https://telegra.ph/file/685c7c8c2ba4e6019e3b4.jpg" width="300" height="300"/>
@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-squa
 </p>
 
 
-***This is a kenyan bot***
+𝗔 𝘄𝗵𝗮𝘁𝘀𝗮𝗮𝗽 𝗕𝗼𝘁 𝗕𝘆 𝗗𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁
 
 ## FEATURES
 This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of openai APIs.
